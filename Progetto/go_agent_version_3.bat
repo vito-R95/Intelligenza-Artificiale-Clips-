@@ -1,0 +1,11 @@
+(load ./agent_version_3/0_Main.clp)
+(load ./agent_version_3/1_Env.clp)
+(load ./maps/map_10_boats_observable_5_cell.clp)
+(load ./agent_version_3/2_Agent_main.clp)
+(load ./agent_version_3/3_Agent_observe.clp)
+(load ./agent_version_3/4_Agent_cells.clp)
+(load ./agent_version_3/5_Agent_plan.clp)
+(load ./agent_version_3/6_Agent_execute.clp)
+(reset)
+(run)
+
